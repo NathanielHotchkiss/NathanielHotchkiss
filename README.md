@@ -1,4 +1,4 @@
-## **Hello, I'm Nathan Hotchkiss**
+## **Hello, I'm Nathan Hotchkiss!**
 
 
-##### This read me file is currently under construction!            
+##### This read me file is currently under construction, more coming soon.            
