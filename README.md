@@ -1,15 +1,17 @@
 ## **Hello, I'm Nathan!**
 
-#### I'm an aspiring Full-Stack Web Developer in northern Virginia, USA. I'm currently a student at Thinkful's coding bootcamp, but also do plenty of additional studying (youtube, and large amounts of MDN). While I have so much more to learn, I'm eager to join a group of like minded individuals and put my skills to the test.
+#### I'm an aspiring Full-Stack Web Developer in northern Virginia, USA. I'm currently a student at Thinkful's Engineering Immersion program, but also do plenty of additional studying (youtube, and large amounts of MDN). While I have so much more to learn, I'm eager to join a group of like minded individuals and put my skills to the test.
 
 #### What I know now vs. Coming soon!
 -------------------------------------
-
-#### - [x] HTML        [x] CSS
-#### - [x] Bootstrap   [x] JavaScript
-#### - [] React        [] Node.js
-#### - [] Express.js   [] PostgreSQL
-
+- [x] HTML        
+- [x] CSS
+- [x] Bootstrap  
+- [x] JavaScript
+- [ ] React      
+- [ ] Node.js
+- [ ] Express.js 
+- [ ] PostgreSQL   
 
 #### Want to get in contact? 
 #### [LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
