@@ -5,11 +5,11 @@
 #### What I know now vs. Coming soon!
 -------------------------------------
 
-#### [x] HTML        [x] CSS
-#### [x] Bootstrap   [x] JavaScript
-#### [] React        [] Node.js
-#### [] Express.js   [] PostgreSQL
+#### - [x] HTML        [x] CSS
+#### - [x] Bootstrap   [x] JavaScript
+#### - [] React        [] Node.js
+#### - [] Express.js   [] PostgreSQL
 
 
 #### Want to get in contact? 
-#### LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
+#### [LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
