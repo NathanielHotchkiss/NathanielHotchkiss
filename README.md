@@ -16,7 +16,9 @@
 -------------------------------------
 
 #### Want to get in contact? 
-#### [LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
+&nbsp;
+
+[![Email](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/32/Mail-icon.png) Email](nathanielhotchkiss@gmail.com)
 &nbsp;
