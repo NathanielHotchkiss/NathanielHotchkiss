@@ -19,6 +19,5 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nathanielhotchkiss/)
 &nbsp;
-
 [![Email](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/16/Mail-icon.png)](mailto:nathanielhotchkiss@gmail.com)
 &nbsp;
