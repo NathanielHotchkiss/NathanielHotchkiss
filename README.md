@@ -17,7 +17,7 @@
 
 #### Want to get in contact? 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nathanielhotchkiss/)
+[![Linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/nathanielhotchkiss/)
 &nbsp;
-[![Email](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/16/Mail-icon.png)](mailto:nathanielhotchkiss@gmail.com)
+[![Email](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/32/Mail-icon.png)](mailto:nathanielhotchkiss@gmail.com)
 &nbsp;
