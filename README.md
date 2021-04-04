@@ -12,4 +12,6 @@
 #### [] Express.js
 #### [] PostgreSQL
 
+
+#### Want to get in contact? 
 #### [LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
