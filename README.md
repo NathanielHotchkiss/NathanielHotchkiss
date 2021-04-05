@@ -2,8 +2,10 @@
 
 #### I'm an aspiring Full-Stack Web Developer in northern Virginia, USA. I'm currently a student at Thinkful's Engineering Immersion program, but also do plenty of additional studying (YouTube, and large amounts of MDN). While I have so much more to learn, I'm eager to join a group of like-minded individuals and put my skills to the test.
 
-#### What I know now vs. Coming soon!
+
 -------------------------------------
+#### What I know now vs. Coming soon!
+
 - [x] HTML        
 - [x] CSS
 - [x] Bootstrap  
