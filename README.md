@@ -10,7 +10,7 @@
 - [x] CSS
 - [x] Bootstrap  
 - [x] JavaScript
-- [ ] React      
+- [x] React      
 - [ ] Node.js
 - [ ] Express.js 
 - [ ] PostgreSQL   
