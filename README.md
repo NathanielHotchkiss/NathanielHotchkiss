@@ -4,16 +4,16 @@
 
 
 -------------------------------------
-#### What I know now vs. Coming soon!
+#### What I know
 
 - [x] HTML        
 - [x] CSS
 - [x] Bootstrap  
 - [x] JavaScript
 - [x] React      
-- [ ] Node.js
-- [ ] Express.js 
-- [ ] PostgreSQL   
+- [x] Node.js
+- [x] Express.js 
+- [x] PostgreSQL   
 
 -------------------------------------
 
