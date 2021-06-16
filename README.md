@@ -5,15 +5,7 @@
 
 -------------------------------------
 
-- [x] HTML        
-- [x] CSS
-- [x] Bootstrap  
-- [x] JavaScript
-- [x] React      
-- [x] Node.js
-- [x] Express.js 
-- [x] PostgreSQL   
-- [x] Knex.js
+HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, PostgreSQL, Knex.js
 
 -------------------------------------
 
