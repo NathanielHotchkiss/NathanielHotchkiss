@@ -13,6 +13,7 @@
 - [x] Node.js
 - [x] Express.js 
 - [x] PostgreSQL   
+- [x] Knex.js
 
 -------------------------------------
 
