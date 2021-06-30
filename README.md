@@ -1,5 +1,4 @@
 ## **Hello, I'm Nathan!** :octocat:
-
 -------------------------------------
 
 #### I'm an aspiring Full-Stack Web Developer in Northern Virginia, currently attending Thinkful's Engineering Immersion program. I enjoy coding and the challenges it presents. While I have so much more to learn, I'm eager to join a group of like-minded individuals and put my skills to the test.
