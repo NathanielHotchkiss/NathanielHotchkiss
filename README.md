@@ -14,7 +14,7 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 - [ ] Deploy previous projects/code cleanup
 - [ ] Read a few coding books (open to suggestions!) 
 - [ ] Land an awesome full-stack job!
-- [ ] Work on a few personal projects that I have planned
+- [ ] Begin working on a few personal projects that I have planned
 - [ ] Complete some Udemy coding courses I've purchased
 
 ---
