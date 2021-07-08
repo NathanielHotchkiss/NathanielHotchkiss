@@ -8,7 +8,7 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 
 ---
 
-#### Goals: 
+#### Current Goals: 
 
 - [ ] Graduate from Thinkful
 - [ ] Deploy previous projects/code cleanup
