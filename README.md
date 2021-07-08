@@ -8,6 +8,17 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 
 ---
 
+#### Goals: 
+
+- [] Graduate from Thinkful
+- [] Deploy previous projects/code cleanup
+- [] Read a few coding books (open to suggestions!) 
+- [] Land an awesome full-stack job!
+- [] Work on a few personal projects that I have planned
+- [] Complete some Udemy coding courses I've purchased
+
+---
+
 #### Feel free to connect!
 
 [![Linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png)](https://www.linkedin.com/in/nathanielhotchkiss/)
