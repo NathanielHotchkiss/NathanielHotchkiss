@@ -17,6 +17,7 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 - [ ] Land an awesome full-stack job!
 - [x] Begin working on a few personal projects that I have planned
 - [ ] Complete some Udemy coding courses I've purchased
+- [ ] Learn Java
 
 ---
 
