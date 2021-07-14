@@ -1,20 +1,10 @@
 ## **Hello, I'm Nathan!** :octocat:
 
-#### I'm an aspiring Full-Stack Web Developer in Northern Virginia and a recent graduate from Thinkful's Engineering Immersion program. I enjoy coding and the challenges it presents. While I have so much more to learn, I'm eager to join a group of like-minded individuals and put my skills to the test.    
+#### I'm an aspiring Full-Stack Web Developer in Northern Virginia and a recent graduate from Thinkful's Engineering Immersion program.
 
 ---
 
-JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | Bootstrap  
-
----
-
-#### Current Goals: 
-
-- [x] Graduate from Thinkful
-- [ ] Deploy previous projects
-- [ ] Read a few coding books (open to suggestions!) 
-- [ ] Land an awesome full-stack job!
-- [x] Begin working on a few personal projects
+JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | Bootstrap 
 
 ---
 
