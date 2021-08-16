@@ -1,6 +1,6 @@
 ## **Hello, I'm Nathan!** :octocat:
 
-#### I'm an aspiring Full-Stack Web Developer in Northern Virginia and a recent graduate from Thinkful's Engineering Immersion program.
+#### I'm a Full-Stack Web Developer in Northern Virginia and a recent graduate from Thinkful's Engineering Immersion program.
 
 ---
 
