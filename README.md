@@ -10,8 +10,8 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 
 #### Let's connect!
 
-[![Linkedin]](https://www.linkedin.com/in/nathanielhotchkiss/)
+[!Linkedin](https://www.linkedin.com/in/nathanielhotchkiss/)
 &nbsp;
 
-[![Email}](mailto:nathanielhotchkiss@gmail.com)
+[!Email](mailto:nathanielhotchkiss@gmail.com)
 &nbsp;
