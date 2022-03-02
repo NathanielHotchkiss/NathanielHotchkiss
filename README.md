@@ -13,5 +13,5 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 [Linkedin](https://www.linkedin.com/in/nathanielhotchkiss/)
 &nbsp;
 
-[Email](mailto:nathanielhotchkiss@gmail.com)
+Email - Hotchkisswork@gmail.com
 &nbsp;
