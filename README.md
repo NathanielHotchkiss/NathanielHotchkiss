@@ -10,7 +10,7 @@ JavaScript | React | Node.js | Express.js | PostgreSQL | Knex.js | HTML | CSS | 
 
 #### Let's connect!
 
-[Linkedin](https://www.linkedin.com/in/nathanielhotchkiss/)
+[LinkedIn](https://www.linkedin.com/in/nathanielhotchkiss/)
 &nbsp;
 
 Hotchkisswork@gmail.com
